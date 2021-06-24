@@ -14,6 +14,7 @@ Premier tour : Le premier tour des élections va consister d’un vote de chaque
 
 Deuxième tour : Le deuxième tour des élections va consister d’un vote de chaque électeurs pour un président nominé de choix sauf les présidents nominés déjà exclus depuis le premier tour. Chaque électeur va pouvoir choisir un président nominé depuis la liste des présidents nominés qui restent. Après le processus de vote, le président ayant le moins de votes sera exclu. N.B: si tous les présidents nominés ont un nombre de votes ex aequo, le tour doit être refait.
 
-Troisième tour : Le troisième tour des élections va consister d’un vote de chaque électeurs pour un président nominé de choix sauf les présidents nominés déjà exclus depuis le deuxième tour. Chaque électeur va pouvoir choisir un président nominé depuis la liste des présidents nominés qui restent. Après le processus de vote, le président ayant le plus de votes sera élu comme président. N.B: si deux ou plusieurs présidents nominés ont un nombre de votes maximale et ex aequo, le tour doit être refait.![voting](https://user-images.githubusercontent.com/77735772/123315265-6e895e00-d523-11eb-8dfd-d7486cfdec73.jpg)
+Troisième tour : Le troisième tour des élections va consister d’un vote de chaque électeurs pour un président nominé de choix sauf les présidents nominés déjà exclus depuis le deuxième tour. Chaque électeur va pouvoir choisir un président nominé depuis la liste des présidents nominés qui restent. Après le processus de vote, le président ayant le plus de votes sera élu comme président. N.B: si deux ou plusieurs présidents nominés ont un nombre de votes maximale et ex aequo, le tour doit être refait.
 
-![Uploading voting.jpg…]()
+![voting](https://user-images.githubusercontent.com/77735772/123315265-6e895e00-d523-11eb-8dfd-d7486cfdec73.jpg)
+
